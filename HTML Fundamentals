@@ -1,0 +1,35 @@
+1. ### Situation: You want to inspect the HTML and CSS code of a webpage.
+### Question: Which panel in Chrome DevTools should you use to inspect the DOM and CSS of a webpage?
+- Right click in chrome browser and then click on Inspect. Under Element you would find the HTML part and under styles you would find the CSS
+
+2. ### Situation: You suspect that a particular JavaScript function is causing errors on a webpage.
+### Question: Which panel in Chrome DevTools should you use to debug the JavaScript code on a webpage?
+- Right click in chrome browser and then click on Inspect. Under Console tab you should be able to see the javascript errors.
+
+
+3. ### Situation: You want to analyze the network traffic of a webpage and find out which requests are taking the longest time to load.
+### Question: Which panel in Chrome DevTools should you use to analyze the network requests and responses of a webpage?
+- Right click in chrome browser and then click on Inspect. Under Network tab you should be able to see the all the files that is loaded by the website and how much time each file takes to load. 
+
+
+4. ### Situation: You want to inspect and manipulate browser storage, such as cookies and local storage.
+### Question: Which panel in Chrome DevTools should you use to inspect and manipulate browser storage on a webpage?
+- Right click in chrome browser and then click on Inspect. Under Application tab you should be able to see the options to inspect Local Storage, Cookies etc
+
+
+5. ### Situation: You want to optimize the performance of a webpage and identify potential bottlenecks.
+### Question: Which panel in Chrome DevTools should you use to analyze the performance of a webpage and identify potential bottlenecks?
+- Right click in chrome browser and then click on Inspect. Under Performance tab you should be able to see how the website performs.
+
+6. ### Situation: You want to test the security of a webpage and check if it has any vulnerabilities.
+### Question: Which panel in Chrome DevTools should you use to analyze the security of a webpage and identify potential vulnerabilities?
+- Right click in chrome browser and then click on Inspect. Under Security tab you should be able to see the Security Overview.
+
+
+7. ### Situation: You want to view and modify the CSS styles of a webpage in real-time.
+### Question: Which panel in Chrome DevTools should you use to view and modify the CSS styles of a webpage in real-time?
+- Right click in chrome browser and then click on Inspect. Under Element on the right, under styles you would find the CSS style for each html element that you can select on the left. You can modify the css in real-time to see how it looks.
+
+8. ### Situation: You want to test how a webpage looks and behaves on different screen sizes.
+Question: Which panel in Chrome DevTools should you use to test the responsiveness of a webpage on different screen sizes?
+- Right click in chrome browser and then click on Inspect. A new window will open at the bottom of the webpage and right besides Elements tab you would see a Responsive Icon. When you click on this icon, you will get options to either drag the window size or select different devices to see if your website is responsive in each of these window sizes.
